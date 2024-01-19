@@ -1,6 +1,6 @@
 - Hi, I’m @conormcgrory
-- I’m a PhD student studying computational neuroscience at Stony Brook University
-- My research focuses on building models of the neural dynamics underlying perception, decision-making, and memory
+- I’m a PhD student studying computational neuroscience at Princeton University
+- My research focuses on building models of the neural dynamics underlying visual perception, decision-making, and memory
 - Most of my work is done in Python, but I'm trying to learn to do more in Julia
 - You can reach me at conor \<dot\> mcgrory \<at\> stonybrook \<dot\> edu!
 
